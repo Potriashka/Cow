@@ -8,6 +8,8 @@ Have you ever wanted a cow to say something?
 # Usage
 ### Copy the cow.py file or download it via Git or .zip and run it
 
-###### There's also a dragon
+###### Here all the characters you can use. Just replace then instead of ```cowsay.cow()``` :
+###### beavis, cheese, daemon, cow, dragon, ghostbusters, kitty, meow, milk, pig, stegosaurus, stimpy, turkey, turtle, tux
+
 
 #### Enjoy using programm
