@@ -8,6 +8,6 @@ Have you ever wanted a cow to say something?
 # Usage
 ### Copy the cow.py file or download it via Git or .zip and run it
 
-###### **There's also a dragon
+###### *There's also a dragon
 
 #### Enjoy using programm
